@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<manifest>
+	<remote name="djchittoor"
+		fetch="https://github.com/djchittoor"/>
+
+	<remote name=" Andra297 "
+		fetch="https://github.com/ Andra297 "
+		revision="cm-13.0" />
+
+	<project path="device/samsung/ms013g-1" name=" android_device_samsung_ms013g-1" remote="Andra297" revision="cm-13.0" />
+	<project path="device/samsung/msm8226-common" name="-android_device_samsung_msm8226-common-3" remote="Andra297" revision="cm-13.0" />
+	<project path="device/samsung/ms013g" name="-android_device_samsung_ms013g" remote="djchittoor" />
+	<project path="kernel/samsung/msm8226" name="-kernel_samsung_msm8226" remote="djchittoor" revision="lineage-17.1" />
+	<project path="vendor/samsung/ms01-common" name=" vendor_samsung_ms01-common" remote="djchittoor" revision="lineage-17.1" />
+  <project path="kernel/samsung/ms013g" name="-android_kernel_samsung_ms013g" remote=" Andra297 " revision="cm-13.0" />
+	<project path="vendor/samsung/ms013g" name="  android_vendor_samsung_ms013g" remote=" Andra297 " revision="cm-13.0" />
+	
+</manifest>
+
